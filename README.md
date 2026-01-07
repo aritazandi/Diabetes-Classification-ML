@@ -31,8 +31,3 @@ The following algorithms were implemented and compared:
 - The impact of removing less significant features (like SkinThickness) was analyzed, showing that model complexity can be reduced without significant loss in accuracy.
 - SVM performance was evaluated under different kernels, highlighting the non-linear nature of the data.
 - Ensemble methods (Bagging/Voting) were used to improve the stability and performance of the base learners.
-
-##  How to Use
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/your-username/diabetes-classification-ml.git](https://github.com/your-username/diabetes-classification-ml.git)
